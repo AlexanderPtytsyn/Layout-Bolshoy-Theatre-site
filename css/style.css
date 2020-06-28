@@ -3,7 +3,7 @@
 	width: 1920px;
 	height: 1045px;
 	background: url(../img/header_background.jpg);
-	margin: 10px auto;
+	margin: auto;
 }
 /*header end*/
 
@@ -258,5 +258,118 @@
 	color: #FFFFFF;
 }
 /*header content end*/
-
 /*header end*/
+
+/*main start*/
+/*main section1 start*/
+.main {
+	width: 1920px;
+	height: 3392px;
+	background-color: #333333;
+	margin: auto;
+	margin-bottom: 10px;
+}
+
+.main_section1 {
+	position: absolute;
+	width: 1110px;
+	height: 457px;
+	margin-top: 150px;
+	margin-left: 405px;
+
+}
+
+.main_section1_title {
+	text-align: center;
+	font-family: Open Sans Condensed;
+	font-weight: 300;
+	font-size: 48px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.main_section1_title::first-letter {
+	color: #D1A954;
+}
+
+.main_section1_subtitle1 {
+	margin-top: 117px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 21px;
+	line-height: 29px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.main_section1_subtitle2 {
+	margin-left: 475px;
+	margin-top: -292px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 21px;
+	line-height: 29px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.main_section1_subtitle1_frame {
+	display: inline-block;
+	margin-left: 0;
+	margin-top: 50px;
+	width: 445px;
+	height: 210px;
+	font-family: Open Sans;
+	font-size: 14px;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+.main_section1_armchair_number {
+	margin-left: 480px;
+	margin-top: -180px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	color: #D1A954;
+}
+
+.main_section1_armchair_text {
+	margin-left: 520px;
+	margin-top: -23px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	color: #FFFFFF;
+}
+
+.main_section1_history_number {
+	margin-left: 480px;
+	
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	color: #D1A954;
+}
+
+.main_section1_history_text {
+	margin-left: 515px;
+	margin-top: -22px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	color: #FFFFFF;
+}
+/*main section1 end*/
+/*main end*/
