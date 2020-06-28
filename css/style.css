@@ -1,0 +1,128 @@
+/*header start*/
+.header_content {
+	width: 1920px;
+	height: 1045px;
+	background: url(../img/header_background.jpg);
+	margin: 10px auto;
+}g
+/*header end*/
+
+/*nav aside start*/
+.nav_content_aside {
+	width: 150px;
+	height: 1045px;
+	background: rgba(51, 51, 51, 0.75);
+	float: left;
+}
+
+.nav_text {
+	position: absolute;
+	display: inline;
+	margin-top: 480px;
+	text-align: center;
+	margin-left: -60px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 18px;
+	text-transform: uppercase;
+	color: #C4C4C4;
+	transform: rotate(-90deg);	
+}
+
+.nav_line {
+	position: absolute;
+	margin-top: 665px;
+	margin-left: 75px;
+}
+
+.nav_insta1 {
+	position: absolute;
+	margin-top: 785px;
+	margin-left: 64px;
+}
+
+.nav_insta2 {
+	position: absolute;
+	margin-top: 791.5px;
+	margin-left: 70.5px;
+}
+
+.nav_insta3 {
+	position: absolute;
+	margin-top: 790.15px;
+	margin-left: 83.12px;
+}
+
+.nav_fb {
+	position: absolute;
+	margin-top: 841px;
+	margin-left: 69px;
+}
+
+.nav_vk {
+	position: absolute;
+	margin-top: 897px;
+	margin-left: 64px;
+}
+
+.nav_yt {
+	position: absolute;
+	margin-top: 941px;
+	margin-left: 64px;
+}
+
+.nav_fb:hover, .nav_vk:hover, .nav_yt:hover {
+	transform: scale(1.2);
+	transition: 0.3s;
+}
+/*nav aside end*/
+
+/*nav top start*/
+.nav_content_top {
+	position: absolute;
+	width: 1110px;
+	height: 27px;
+	margin: 50px 405px;
+}
+
+.nav_content_top_list {
+	
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 25px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.nav_content_top_word1, .nav_content_top_word2, .nav_content_top_word3, .nav_content_top_word4, .nav_content_top_word5 {
+	float: left;
+	margin-right: 63px;
+	margin-top: 1px;
+}
+
+.nav_content_top_phone {
+	float: right;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	text-align: right;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.nav_content_top_phone_link, .nav_content_top_word_link {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.nav_content_top_phone_link:hover, .nav_content_top_word_link:hover {
+	border-bottom: 2px solid #D1A954;	
+	transition: .9s all;
+}
+/*nav top end*/
+
+
+/*header end*/
