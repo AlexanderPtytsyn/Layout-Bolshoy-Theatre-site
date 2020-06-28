@@ -4,7 +4,7 @@
 	height: 1045px;
 	background: url(../img/header_background.jpg);
 	margin: 10px auto;
-}g
+}
 /*header end*/
 
 /*nav aside start*/
@@ -124,5 +124,139 @@
 }
 /*nav top end*/
 
+/*header content start*/
+.header_content_center {
+	position: absolute;
+	height: 570px;
+	width: 1035px;
+	margin-left: 405px;
+	margin-top: 267px;
+	
+}
+
+.header_content_center_text {
+	float: left;
+	position: absolute;
+	height: 296px;
+	width: 540px;
+	margin-top: 117px;
+	
+}
+
+.header_content_center_images {
+	right: 0;
+	position: absolute;
+	height: 570px;
+	width: 370px;
+
+}
+
+.header_content_center_text1 {
+	margin-bottom: 50px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 50px;
+	line-height: 87px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.header_content_center_text2 {
+
+	font-family: Open Sans;
+	font-size: 14px;
+	line-height: 150%;
+	color: #FFFFFF;
+}
+
+.header_content_center_text3 {
+	position: absolute;
+	width: 160px;
+	height: 50px;
+	bottom: 0;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	align-items: center;
+	text-align: center;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: #D1A954;
+}
+
+.header_content_center_text3:hover {
+	transform: scale(1.1);
+	transition: .2s;
+	border: 2px solid white;
+	cursor: pointer;
+	background-color: #DC7506;
+}
+
+.header_content_center_image1 {
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.header_content_center_image2 {
+	position: absolute;
+	margin-top: 0px;
+	margin-left: 0px;
+}
+
+.header_arrow_left {
+	position: absolute;
+	bottom: 4px;
+	left: 0px;
+}
+
+.header_arrow_right {
+	position: absolute;
+	bottom: 4px;
+	right: 0px;
+}
+
+.header_content_center_arrow_left_text {
+	position: absolute;
+	bottom: 0px;
+	left: 65px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.header_content_center_arrow_left_text {
+	position: absolute;
+	bottom: 0px;
+	left: 65px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.header_content_center_arrow_right_text {
+	position: absolute;
+	bottom: 0px;
+	right: 65px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+/*header content end*/
 
 /*header end*/
