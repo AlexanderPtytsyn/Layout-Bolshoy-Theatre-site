@@ -557,8 +557,82 @@
 }
 
 .main_section3:hover {
-	transform: scale(1.2);
+	transform: skew(10deg, 10deg) scale(1.2) translate(120px, 230px);
 	transition: 1s;
+	box-shadow: 25px 25px 30px gold;
+
 }
 /*main section3 end*/
+
+/*main section4 start*/
+.main_section4 {
+	position: absolute;
+	width: 1034px;
+	height: 437px;
+	margin-top: 2322px;
+	margin-left: 443px;
+}
+
+.main_section4_text {
+	font-family: Open Sans Condensed;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 48px;
+	line-height: 65px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	left: 338px;
+}
+
+.main_section4_word1 {
+	color: #D1A954;
+}
+
+.main_section4_word2 {
+	color: #fff;
+}
+
+.main_section4_logo_row1 {
+	position: absolute;
+	width: 1034px;
+	height: 96px;
+	margin-top: 100px;
+}
+
+.main_section4_logo_row2 {
+	position: absolute;
+	width: 1034px;
+	height: 96px;
+	margin-top: 276px;
+}
+
+.main_section4_logo1,
+.main_section4_logo2,
+.main_section4_logo3,
+.main_section4_logo5,
+.main_section4_logo6,
+.main_section4_logo7 {
+	float: left;
+	margin-right: 78px;
+}
+
+.main_section4_logo4,
+.main_section4_logo8 {
+	float: right;
+}
+
+.main_section4_logo1:hover,
+.main_section4_logo2:hover,
+.main_section4_logo3:hover,
+.main_section4_logo5:hover,
+.main_section4_logo6:hover,
+.main_section4_logo7:hover,
+.main_section4_logo4:hover,
+.main_section4_logo8:hover {
+	opacity: .7;
+	cursor: pointer;
+} 
+
+/*main section4 end*/
 /*main end*/
