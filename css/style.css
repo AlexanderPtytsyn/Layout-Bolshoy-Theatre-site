@@ -633,6 +633,183 @@
 	opacity: .7;
 	cursor: pointer;
 } 
-
 /*main section4 end*/
+
+/*footer start*/
+.footer {
+	position: absolute;
+	width: 1110px;
+	height: 355px;
+	margin-top: 2879px;
+	margin-left: 405px;
+}
+
+.footer_title {
+	font-family: Open Sans Condensed;
+	font-weight: 300;
+	font-size: 48px;
+	line-height: 65px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	left: 365px;
+}
+
+.footer_title_word1 {
+	color: #D1A954;
+}
+
+.footer_title_word2 {
+	color: #fff;
+}
+
+.footer_phone1 {
+	position: absolute;
+	top: 165px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.footer_phone2 {
+	position: absolute;
+	top: 207px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.footer_email {
+	position: absolute;
+	top: 249px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.footer_text {
+	position: absolute;
+	top: 291px;
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 22px;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+
+.footer_registration_name {
+	position: absolute;
+	padding: 0px 23px 0px 15px;
+	width: 180px;
+	height: 35px;
+	top: 165px;
+	left: 380px;
+	background: #444444;
+	border: 1px solid #616161;
+	box-sizing: border-box;
+}
+
+.footer_registration_company {
+	position: absolute;
+	padding: 0px 23px 0px 15px;
+	width: 180px;
+	height: 35px;
+	top: 165px;
+	left: 590px;
+	background: #444444;
+	border: 1px solid #616161;
+	box-sizing: border-box;
+}
+
+.footer_registration_phone {
+	position: absolute;
+	padding: 0px 45px 0px 15px;
+	width: 180px;
+	height: 35px;
+	top: 230px;
+	left: 380px;
+	background: #444444;
+	border: 1px solid #616161;
+	box-sizing: border-box;
+}
+
+.footer_registration_email {
+	position: absolute;
+	padding: 0px 45px 0px 15px;
+	width: 180px;
+	height: 35px;
+	top: 230px;
+	left: 590px;
+	background: #444444;
+	border: 1px solid #616161;
+	box-sizing: border-box;
+}
+
+.footer_registration_message {
+	position: absolute;
+	padding: 9px 153px 65px 15px;
+	width: 310px;
+	height: 100px;
+	top: 165px;
+	right: 0;
+	background: #444444;
+	border: 1px solid #616161;
+	box-sizing: border-box;
+}
+
+.footer_longtext {
+	position: absolute;
+	display: inline-block;
+	max-width: 390px;
+	height: 50px;
+	top: 305px;
+	left: 380px;
+	font-family: Open Sans;
+	font-size: 13px;
+	line-height: 150%;
+	color: #989898;
+}
+
+.footer_button {
+	position: absolute;
+	width: 190px;
+	height: 50px;
+	bottom: 0px;
+	right: 0px;
+	background: #D1A954;
+}
+
+.footer_button_text {
+	font-family: Open Sans Condensed;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	text-align: center;
+	letter-spacing: 0.1em;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+
+.footer_button:hover {
+	background: #19EB14;
+	transition: .3s all;
+	transform: scale(1.1);
+	opacity: .9;
+}
+/*footer end*/
 /*main end*/
