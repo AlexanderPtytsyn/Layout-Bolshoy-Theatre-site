@@ -812,4 +812,34 @@
 	opacity: .9;
 }
 /*footer end*/
+
+/*sub footer start*/
+.sub_footer {
+	position: absolute;
+	width: 1110px;
+	height: 48px;
+	margin-left: 405px;
+	top: 4359px;
+	border-top: 1px solid #565656;
+}
+
+.sub_footer_text1 {
+	position: absolute;
+	margin-top: 30px;
+	font-family: Open Sans;
+	font-size: 12px;
+	line-height: 150%;
+	color: #989898;
+}
+
+.sub_footer_text2 {
+	position: absolute;
+	right: 0px;
+	margin-top: 30px;
+	font-family: Open Sans;
+	font-size: 12px;
+	line-height: 150%;
+	color: #989898;
+}
+/*sub footer end*/
 /*main end*/
